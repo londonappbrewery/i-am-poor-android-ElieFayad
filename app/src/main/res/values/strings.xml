@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I Am Poor :(</string>
+    <string name="more_details">This app is in order to practice the skill sets that we learned in the  course so far.</string>
 </resources>
